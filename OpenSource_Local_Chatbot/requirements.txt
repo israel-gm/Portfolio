@@ -1,0 +1,15 @@
+huggingface_hub
+transformers
+accelerate
+ipywidgets
+bitsandbytes
+peft
+trl
+datasets
+numpy
+pandas
+clickhouse-connect
+ai_edge_torch
+tf-keras
+ai-edge-litert
+mediapipe
