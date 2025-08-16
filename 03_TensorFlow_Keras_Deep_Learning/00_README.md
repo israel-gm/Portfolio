@@ -6,9 +6,6 @@ Enabled GPU Support on Windows WSL!
 
 Use cases of neural network models with TensorFlow/Keras in Python.
 
-This work is part of the book:
-Enabled GPU Support on Windows WSL.
-
 
 
 This examples are part of the book:
