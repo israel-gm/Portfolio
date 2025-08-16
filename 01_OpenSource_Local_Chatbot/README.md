@@ -2,7 +2,7 @@
 
 Built entirely with open-source technologies and powered by an NVIDIA GTX 4060 laptop, this chatbot delivers fast, intelligent responses—without relying on an internet connection (only needed once to download the Google Gemma model from Hugging Face)
 
-(Check Notebooks folder for step-by-step procedure)
+(Check Notebooks folder for step-by-step demonstration)
 
 💡 Key Highlights:
 
