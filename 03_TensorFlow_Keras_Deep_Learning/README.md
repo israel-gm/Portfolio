@@ -4,8 +4,6 @@ Examples of neural network models using tensorflow/keras with python.
 
 Enabled GPU Support on Windows WSL!
 
-Use cases of neural network models with TensorFlow/Keras in Python.
-
 
 
 This examples are part of the book:
