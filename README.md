@@ -5,4 +5,6 @@
 
 02. Google Gemma 3 1B. LLM local fine-tuning without internet conection.
 
-03. Deep learning with python. Application of neural networks with tensorflow/Keras.
+03. Application of neural networks with tensorflow/Keras.
+
+04. Foundations of deep learning with PyTorch.
