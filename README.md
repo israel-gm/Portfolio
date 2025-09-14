@@ -7,6 +7,6 @@
 
 03. Application of neural networks with tensorflow/Keras.
 
-04. Foundations of deep learning with PyTorch.
+04. Pytorch: Deep learning end to end project deployment.
 
 05. Pyspark tutorials: ETL & Datalakes
