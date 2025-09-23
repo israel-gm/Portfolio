@@ -11,6 +11,6 @@
 
 05. Pyspark tutorials: ETL & Datalakes
 
-06. Streaming with Kafka
+06. Streaming
 
 07. Airflow: workflow management
