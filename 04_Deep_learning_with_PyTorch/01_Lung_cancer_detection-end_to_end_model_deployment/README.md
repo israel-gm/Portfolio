@@ -1,6 +1,6 @@
 # Introduction to the use case
 
-This is an implementation fo the book "Deep Learning with PyTorch" (Eli Stevens, Luca Antiga, and Thomas Viehmann). https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master
+This is an implementation of the book "Deep Learning with PyTorch" (Eli Stevens, Luca Antiga, and Thomas Viehmann). https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master
 
 Our goal is to give you the tools to deal with situations where things aren’t working. In order to present these ideas and techniques, we’ve chosen automatic detection of malignant tumors in the lungs using only a CT scan of a patient’s chest as input.
 
