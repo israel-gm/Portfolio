@@ -8,7 +8,7 @@ We will focus on the technical challenges of accelerating training through cachi
 
 
 
-### Our data source: The LUNA Grand Challenge
+### Data source: The LUNA Grand Challenge
 
 The CT scans we were just looking at come from the LUNA (Lung Nodule Analysis) Grand Challenge. The LUNA Grand Challenge (https://luna16.grand-challenge .org/Description) is the combination of an open dataset with high-quality labels of patient CT scans (many with lung nodules) and a public ranking of classifiers against the data.
 
