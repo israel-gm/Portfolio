@@ -1,4 +1,4 @@
-# Automatic detection of malignant tumors in the lungs using only a CT scan of a patient’s chest as input
+# Automatic detection of malignant tumors in the lungs using CT scans of the patients' chest as input
 
 This is an implementation of the book "Deep Learning with PyTorch" (Eli Stevens, Luca Antiga, and Thomas Viehmann). https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master
 
