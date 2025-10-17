@@ -2,7 +2,7 @@
 
 This is an updated and debugged implementation of the book "Deep Learning with PyTorch" (Eli Stevens, Luca Antiga, and Thomas Viehmann). https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master
 
-Our goal is to deal with situations where things aren’t working. We will focus on the technical challenges of accelerating training through caching large exotic input files, implementing GPU parallel computing, and ensuring the Python application is production-ready.
+We will focus on the technical challenges of accelerating training through caching large exotic input files, implementing GPU parallel computing, and ensuring the Python application is production-ready.
 
 If you clone this git, the app will work, just be aware of your memory/cpu/gpu resources.
 
