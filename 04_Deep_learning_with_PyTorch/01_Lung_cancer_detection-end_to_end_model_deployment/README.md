@@ -2,6 +2,8 @@
 
 This is an updated and debugged implementation of the book "Deep Learning with PyTorch" (Eli Stevens, Luca Antiga, and Thomas Viehmann). https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master
 
+Download data (110 GB when uncompressed): https://luna16.grand-challenge.org/
+
 We will focus on the technical challenges of accelerating training through caching large exotic input files, implementing GPU parallel computing, and ensuring the Python application is production-ready.
 
 If you clone this git, the app will work, just be aware of your memory/cpu/gpu resources.
