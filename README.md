@@ -1,16 +1,22 @@
-# Portfolio
+📂 Machine Learning & Data Portfolio
+
+This repository is a curated collection of projects exploring machine learning, deep learning, and data systems.
+
+The work is organized by problem type and intent, not by tools — showcasing both practical production ready applications, and conceptual understanding across the ML stack.
 
 
-01. Open source offline chatbot that queries forest cover surface data in Mexico
+What you’ll find here:
 
-02. Open source LLM fine-tuning without internet conection
+- 💬 Chatbots — applied NLP and conversational systems.
+- 🧠 Deep Learning — applied projects, computer vision, and model architectures.
+- 🌳 Classical & Ensemble ML — strong baselines and structured data models.
+- 🛠 Data Engineering — pipelines, processing, and scalable workflows.
+- 📊 Visualization — exploratory analysis and data storytelling.
 
-03. Application of neural networks with tensorflow/Keras
 
-04. Pytorch: Deep learning end to end project deployment
+Each project includes clear documentation explaining:
 
-05. Pyspark tutorials: ETL & Datalakes
+- the problem being solved
+- the approach and results
 
-06. Airflow: workflow management
-
-07. The streaming case
+This portfolio is designed to be easy to navigate, technically honest, and ready to grow.
