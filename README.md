@@ -18,5 +18,3 @@ Each project includes clear documentation explaining:
 
 - the problem being solved
 - the approach and results
-
-This portfolio is designed to be easy to navigate, technically honest, and ready to grow.
