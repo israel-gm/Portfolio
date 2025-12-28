@@ -2,7 +2,7 @@
 
 This repository is a curated collection of projects exploring machine learning, deep learning, and data systems.
 
-The work is organized by problem type and intent, not by tools — showcasing both practical applications, and conceptual understanding across the ML stack.
+The work is organized by problem type and intent, not by tools — showcasing both practical applications and conceptual understanding across the ML stack.
 
 
 What you’ll find here:
