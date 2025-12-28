@@ -1,0 +1,12 @@
+huggingface_hub
+transformers
+accelerate
+ipywidgets
+bitsandbytes
+peft
+trl
+datasets
+numpy
+pandas
+clickhouse-connect
+mediapipe

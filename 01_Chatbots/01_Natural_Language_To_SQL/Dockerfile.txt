@@ -1,0 +1,15 @@
+# Use the official PyTorch image as the base
+FROM pytorch/pytorch:2.7.1-cuda12.8-cudnn9-runtime
+
+# Set the working directory inside the container
+WORKDIR /usr/workspace
+
+# Copy the requirements.txt file into the container
+COPY requirements.txt ./
+
+# Install the dependencies from the requirements.txt file
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt
+
+# Keep the container running for interactive use
+CMD ["sleep", "infinity"]

@@ -1,0 +1,6 @@
+confluent-kafka
+gtfs-realtime-bindings
+pandas
+matplotlib
+seaborn
+requests
