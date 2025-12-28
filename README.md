@@ -1,4 +1,4 @@
-📂 Machine Learning & Data Portfolio
+# 📂 Machine Learning & Data Portfolio
 
 This repository is a curated collection of projects exploring machine learning, deep learning, and data systems.
 
