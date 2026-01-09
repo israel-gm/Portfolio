@@ -4,7 +4,7 @@ This is an implementation of the book "Deep Learning with PyTorch" (Eli Stevens,
 
 This project is an example of a production ready app. It involved technical challenges such as: accelerating training through caching large exotic input files, implementing GPU for parallel computing, and ensuring the models were learning the expected problem.
 
-Check notebooks folder for usage and demo.
+Check zipped jupyter notebook for usage and demo.
 
 <img width="670" height="696" alt="image" src="https://github.com/user-attachments/assets/edc8d560-e02a-49ee-b2ea-cf6dcc338f51" />
 
@@ -18,4 +18,5 @@ Download data: (110 GB when uncompressed): https://luna16.grand-challenge.org/
 ### Deployment overview:
 
 <img width="1130" height="798" alt="image" src="https://github.com/user-attachments/assets/3e61d657-b256-47d1-934c-124341b81299" />
+
 
