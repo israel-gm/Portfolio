@@ -1,4 +1,4 @@
-# Automatic detection of malignant tumors in the lungs using Computed Tomographies (CT scans)'
+# Automatic detection of malignant tumors in the lungs using Computed Tomographies (CT scans)
 
 This is an implementation of the book "Deep Learning with PyTorch" (Eli Stevens, Luca Antiga, and Thomas Viehmann). https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master
 
@@ -18,3 +18,4 @@ Download data: (110 GB when uncompressed): https://luna16.grand-challenge.org/
 ### Deployment overview:
 
 <img width="1130" height="798" alt="image" src="https://github.com/user-attachments/assets/3e61d657-b256-47d1-934c-124341b81299" />
+
